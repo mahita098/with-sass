@@ -1,0 +1,9 @@
+header h1 {
+  background-color: blue;
+}
+header button {
+  background-color: rgb(168, 168, 184);
+}
+header button:hover {
+  background: yellow;
+}/*# sourceMappingURL=style.css.map */
